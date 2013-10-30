@@ -1,0 +1,8 @@
+/.idea
+/build
+/.settings
+/.cproject
+/.project
+/core
+/gdb
+/openocd
